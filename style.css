@@ -1,0 +1,11 @@
+li.principal{
+    list-style-type: circle;
+}
+
+li.variante {
+    list-style-type: upper-roman;
+  }
+  
+  li.segundo{
+    list-style-type: lower-alpha;
+  }
